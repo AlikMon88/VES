@@ -2,5 +2,5 @@
 Experimental implementation of Condensation Trail identification using Latent Optimization via Deep Energy models 
 
 <p>
-  <img src="https://drive.google.com/file/d/1aPciIGCp-c-Vnaf-RTr933CQ224ec2S9/view" style="width: auto; height:auto;" />
+  <img src="Extra/cover_img.png" style="width: auto; height:auto;" />
 </p> 
