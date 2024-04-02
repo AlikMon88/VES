@@ -2,5 +2,5 @@
 Implementation of VES to calculate N-score and t for clearance 
 
 <p>
-  <img src="Extra/cover_img.png" style="width: auto; height:auto;" />
+  <img src="Extra/VES-Nesh-Board.png" style="width: auto; height:auto;" />
 </p> 
